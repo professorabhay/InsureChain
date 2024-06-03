@@ -1,4 +1,5 @@
 {
-  "url": "http://localhost:3001/",
-  "name": "Insure Chain"
+  "url": "http://localhost:3000/",
+  "name": "Insure Chain",
+  "iconURL": "https://avatars.githubusercontent.com/u/76243309?v=4"
 }

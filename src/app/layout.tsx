@@ -8,7 +8,8 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Insure Chain",
-  description: "Decentralized Insurance Platform"
+  description: "Decentralized Insurance Platform",
+  
 };
 
 export default function RootLayout({
