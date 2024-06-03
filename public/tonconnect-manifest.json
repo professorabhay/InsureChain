@@ -1,5 +1,5 @@
 {
-  "url": "http://localhost:3000/",
+  "url": "http://localhost:3001/",
   "name": "Insure Chain",
-  "iconURL": "https://gateway.pinata.cloud/ipfs/QmZpNUPQ4eLoM5pxvdCaQEgFuzLV4RokTicn85KK7cSJaf"
+  "iconUrl": "https://gateway.pinata.cloud/ipfs/QmZpNUPQ4eLoM5pxvdCaQEgFuzLV4RokTicn85KK7cSJaf"
 }
