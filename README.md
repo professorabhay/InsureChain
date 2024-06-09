@@ -38,5 +38,9 @@ Our technical architecture ensures scalability, security, and efficiency:
 2. **Register and Verify Identity:**
    Follow the on-screen instructions to register, verify, and manage your identity credentials.
 
+## Follow Us
+- **Twitter:** [https://twitter.com/insure_chain](https://twitter.com/insure_chain)
+- **Telegram:** [https://t.me/InsureChainBot](https://t.me/InsureChainBot)
+
 ## Coming Soon ! 🌻
 
