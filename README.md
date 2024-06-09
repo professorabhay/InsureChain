@@ -1,4 +1,5 @@
 # Insure Chain
+<img src = "./public/logo-nobackground.png" width = 100%/>
 
 ## Table of Contents
 - [Introduction](#introduction)
