@@ -6,8 +6,6 @@
 - [Tech Stack](#tech-stack)
 - [Architecture](#architecture)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 Are you tired of repeatedly sharing your personal information across different platforms, exposing yourself to potential data breaches and privacy issues? Insure Chain is here to revolutionize the way identity verification is handled. Insure Chain is a decentralized identity verification system that leverages blockchain technology to provide secure, private, and user-controlled identity management. By utilizing the TON blockchain and integrating seamlessly with Telegram, our system offers a scalable and low-cost solution for identity verification needs.
