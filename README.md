@@ -1,36 +1,44 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Insure Chain
 
-## Getting Started
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Tech Stack](#tech-stack)
+- [Architecture](#architecture)
+- [Usage](#usage)
+- [Contributing](#contributing)
+- [License](#license)
 
-First, run the development server:
+## Introduction
+Are you tired of repeatedly sharing your personal information across different platforms, exposing yourself to potential data breaches and privacy issues? Insure Chain is here to revolutionize the way identity verification is handled. Insure Chain is a decentralized identity verification system that leverages blockchain technology to provide secure, private, and user-controlled identity management. By utilizing the TON blockchain and integrating seamlessly with Telegram, our system offers a scalable and low-cost solution for identity verification needs.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Features
+- **User-Controlled Identity Management:** Users have complete control over their identity credentials and can share them selectively with third parties.
+- **Secure and Immutable:** Blockchain technology ensures data integrity and security, reducing the risk of data breaches.
+- **Integration with Telegram:** Offers a seamless user experience by leveraging the existing Telegram user base.
+- **Decentralized Storage:** Uses decentralized storage solutions like IPFS for storing identity credentials.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Tech Stack
+- **Frontend:** Next.js
+- **Backend:** Node.js, Express
+- **Blockchain:** TON blockchain
+- **Storage:** IPFS or other decentralized storage solutions
+- **Security:** Encryption and secure key management
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Architecture
+Our technical architecture ensures scalability, security, and efficiency:
+- **Frontend:** Developed using Next.js for a responsive and dynamic user interface.
+- **Backend:** Powered by Node.js with Express for API handling and interactions with the blockchain.
+- **Blockchain Integration:** Utilizes smart contracts on the TON blockchain for secure and transparent identity management.
+- **Database:** Decentralized storage for identity credentials, possibly using IPFS or another decentralized storage solution.
+- **Security:** Implements encryption and secure key management for protecting user data.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Usage
+1. **Access the Application:**
+   Open your browser and navigate to `https://insure-chain.vercel.app` to access the application.
 
-## Learn More
+2. **Register and Verify Identity:**
+   Follow the on-screen instructions to register, verify, and manage your identity credentials.
 
-To learn more about Next.js, take a look at the following resources:
+## Coming Soon ! 🌻
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
